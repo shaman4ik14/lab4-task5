@@ -11,7 +11,7 @@
 - **west**
 - **north** 
 - **east**
-**Each room can have:**
+### **Each room can have:**
 - **items**
 - **enemies**
 >Each enemy has a **special object** that kills him
